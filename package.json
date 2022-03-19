@@ -1,0 +1,11 @@
+{
+  "name": "docs.gode.app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/godeProject/docs.gode.app.git",
+  "author": "Jakkaphat <gunt@guntxjakka.me>",
+  "license": "MIT",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
