@@ -1,4 +1,4 @@
-# gode.js @2.0.0-beta.8
+# gode.js @2.0.0-beta
 
 Convert gibberish caused by Thai user forgotting to change their keyboard layout.
 
